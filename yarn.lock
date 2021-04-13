@@ -13497,10 +13497,9 @@ validate-npm-package-name@~2.2.2:
   dependencies:
     builtins "0.0.7"
 
-validated-changeset@~0.14.2:
+"validated-changeset@https://github.com/betocantu93/validated-changeset#spike":
   version "0.14.2"
-  resolved "https://registry.yarnpkg.com/validated-changeset/-/validated-changeset-0.14.2.tgz#e1f3f869cac64e5b5841fccdd1c8cdfa72d16c34"
-  integrity sha512-HeAXQzP7531BnkAPYu8ZfOCFlkD+nOFl213k5sAntQ0kVkRGokl5VGXGlD3T4ox9nBJPS5FvzvdIX14RnuhLww==
+  resolved "https://github.com/betocantu93/validated-changeset#8b30f6f1cc64517c96c072364a576d534f1af890"
 
 vary@~1.1.2:
   version "1.1.2"
